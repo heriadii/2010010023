@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>561</width>
+    <height>575</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>511</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>New Row</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>ad_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ad_fname</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ad_lname</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ad_email</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ad_pwd</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>ad_dpic</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

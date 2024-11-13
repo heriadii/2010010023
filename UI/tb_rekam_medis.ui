@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>562</width>
+    <height>570</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>40</y>
+     <width>521</width>
+     <height>381</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>New Row</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>rm_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_number</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_number</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>poli_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>doc_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>obt_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_vit_bodytemp</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_vit_heartpulse</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_vit_resprate</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_vit_bloodpress</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_diagnosa</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>rm_record</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>564</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>541</width>
+     <height>192</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>New Row</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>pat_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_number</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_ktp</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_name</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_gender</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_pob</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_dob</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_addr</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_phone</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_ailment</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>poli_id</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_date_arrival</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>pat_date_record</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
